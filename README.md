@@ -25,4 +25,7 @@
 24) Enter url and path for media as well: for URL - /media/, for directory - /home/erturkmemmedli/Django-Personal-Portfolio-Project/media
 25) Enable 'Force HTTPS'
 26) Databases can be adjusted in https://www.pythonanywhere.com/ website, MySQL is free, PostgreSQL requires upgrade
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4098ba79b716aeb3ad67565d77ebd4bbdd3f6d53
