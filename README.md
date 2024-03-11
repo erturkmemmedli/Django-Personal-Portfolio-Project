@@ -27,3 +27,5 @@
 26) Databases can be adjusted in https://www.pythonanywhere.com/ website, MySQL is free, PostgreSQL requires upgrade
 27) Create local_settings.py file for local work purpose and add it to .gitignore
 28) Create requirements file: pip freeze > requirements.txt
+29) Install them in production: pip install -r requirements.txt
+30) Change your domain name tp your custom domain (Google Domain), add DNS as CNAME
